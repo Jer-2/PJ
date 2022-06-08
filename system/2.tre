@@ -1,0 +1,30 @@
+PAGE
+    Toplevel: 5566人力銀行
+        Button: Button1  
+        Label: Label1  
+        Button: Button2  
+        Menu Bar
+    Toplevel: 應徵者注冊
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1_1  
+        Button: Button1  
+        Button: Button1  
+    Toplevel: 工作簡歷
+        Button: Button1  
+        Button: Button1  
+    Toplevel: 厰商注冊
+        Button: Button1  
+        Button: Button1  
+    Toplevel: 工作要求
+        Button: Button1  
+        Button: Button1  
+    Toplevel: 應徵者
+        Button: Button1  
+        Button: Button1  
+    Toplevel: 厰商
+        Button: Button1  
+        Button: Button1  
+
