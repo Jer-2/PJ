@@ -4,14 +4,14 @@ PAGE
         Label: Label1  
         Button: Button2  
         Menu Bar
-    Toplevel: 應徵者注冊
+    Toplevel: 應徵者登錄
         Label: Label1  
         Label: Label1  
-        Label: Label1  
-        Label: Label1  
-        Label: Label1_1  
         Button: Button1  
         Button: Button1  
+        Menu Bar
+        Entry: Entry1  
+        Entry: Entry1  
     Toplevel: 厰商基本資料
         Button: Button1  
         Button: Button1  
@@ -38,7 +38,7 @@ PAGE
         Entry: Entry1  
         Entry: Entry1  
         Spinbox: Spinbox1  
-    Toplevel: 工作要求
+    Toplevel: 廠商徵才資料
         Button: Button1  
         Button: Button1  
         Label: Label1  
@@ -46,6 +46,42 @@ PAGE
         Label: Label1  
         Label: Label1  
         Label: Label1  
+        Entry: Entry1  
+        Label: Label2  
+        Label: Label2  
+        Label: Label2  
+        Label: Label2  
+        Label: Label2  
+        Label: Label2  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Label: Label2  
+        Label: Label2  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
     Toplevel: 應徵者
         Button: Button1  
         Button: Button1  
@@ -77,4 +113,64 @@ PAGE
         Entry: Entry1  
         Checkbutton: Checkbutton1  
         Checkbutton: Checkbutton1  
+    Toplevel: 人才界面
+        Button: Button1  
+        Button: Button1  
+    Toplevel: 厰商界面
+        Button: Button1  
+        Button: Button1  
+    Toplevel: 廠商登錄
+        Button: Button1  
+        Button: Button1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Label: Label1  
+        Label: Label1  
+    Toplevel: 應徵工作簡歷
+        Button: Button1  
+        Button: Button1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Checkbutton: Checkbutton1  
+        Label: Label1  
+        Label: Label1  
+        Label: Label1  
+        Entry: Entry1  
+        Entry: Entry1  
+        Label: Label1  
+        Label: Label1  
+        Entry: Entry1  
+        Entry: Entry1  
 
